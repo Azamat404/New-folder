@@ -1,0 +1,17 @@
+a=max(1,3,8,45,-2)
+print(a)
+b=min(1,3,8,45,-2)
+print(b)
+c=(1,3,5)
+d=sum([12,23,67])
+print(sum(c))
+print(d)
+print(sum((1,2)))
+e=15
+f=3.54
+print(round(f))
+print(round(e))
+r=1.245
+print(round(r,2))
+print(abs(-23))
+print(abs(15))

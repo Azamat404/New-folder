@@ -1,0 +1,13 @@
+print(5/2)
+print(8/2)
+print(9//2)#fullnumber
+print(15%7)
+print(10%15)
+print(5**5)
+number=1
+number=number+1
+number+=1
+print(number)
+numb=3
+numb+=number
+print(numb)

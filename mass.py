@@ -1,0 +1,25 @@
+'''
+my_list=["Hello world" , 2023,True]
+my_tuple=("Python" , False, 3.14)
+print(my_list)
+print(type(my_list))
+print(my_tuple)
+print(type(my_tuple))
+print(len(my_tuple))
+print(my_list*3)
+print(text[0]) 
+print(text[3]) 
+print(text[6])
+print(text[10])
+print(text[-1])
+print(my_list[1])
+'''
+text="good evening my name is Azamat"
+print(text[1:7:2])
+print(text[3::2]) 
+print(text[-8::2]) 
+print(text[:7:3]) 
+print(text[::2]) 
+print(text[::-2]) 
+print(text[::-1]) 
+print(text[:])

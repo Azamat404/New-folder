@@ -1,0 +1,6 @@
+a=input("name\t")
+b=input("age\t")
+c=input("fav game\t")
+d=input("fav film\t")
+e=input("fav lesson\t")
+print(F'my name is {a} I am {b} my fav game is {c} and my fav film {d} and my fav lesson is {e}')
